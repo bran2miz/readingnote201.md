@@ -1,2 +1,12 @@
 # readingnote201.md
-This is my reading notes for Course 201
+This is my reading notes for **Course 201**
+
+## About Me
+
+My name is *Brandon Mizutani.* 
+- I am a current student at CodeFellows. 
+- I love to travel, explore new restaurants, and shop.
+
+### Reading Notes
+
+[1. Introduction to HTML and JavaScript](reading201.md)
