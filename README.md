@@ -10,4 +10,4 @@ My name is *Brandon Mizutani.*
 
 ### Reading Notes
 
-[1. Introduction to HTML and JavaScript](reading201.md)
+[1. Introduction to HTML and JavaScript](class-01.md)
